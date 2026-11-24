@@ -2,6 +2,8 @@
 
 Verified: ENTRY is 108 characters / 108 bytes, written to entry.txt
 with no trailing newline, UTF-8.
+entry.txt sha256: 152c3bd9d00f879e82d393e4d9eebe403150daf3d809dda6193eb0082f2305c6
+Competition: u-golden-heron-44-fortune-in-a-pot-ded981e9
 """
 
 import os
